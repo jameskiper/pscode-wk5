@@ -23,7 +23,7 @@ d) Write out the results found from steps b and c with a message describing what
 calculate numbers n1, n2, n3, n4, n5
 
 min = n1
-max = n1
+max = n5
  for  n from n1-n5
    If cur > max
       max = cur 
